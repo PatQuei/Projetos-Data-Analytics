@@ -54,7 +54,7 @@ Para viabilizar as análises do relatório, as seguintes medidas foram desenvolv
 
 ## Imagem do Relatório
 
-![Relatório - Página Inicial](link_para_o_print_da_pagina_inicial)
+![Relatório - Página Inicial](https://github.com/PatQuei/Projetos-Data-Analytics/blob/main/Projeto%205/Captura%20de%20tela%202024-09-22%20201434.png)
 
 ## Ferramentas Utilizadas
 

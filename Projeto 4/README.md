@@ -15,7 +15,7 @@ Este projeto visa aprimorar a experiência do usuário em relatórios do Power B
 
 Abaixo está a imagem da primeira página do relatório:
 
-![Primeira Página do Relatório](link-para-a-imagem)
+![Primeira Página do Relatório](https://github.com/PatQuei/Projetos-Data-Analytics/blob/main/Projeto%204/Print%20Homepage.png)
 
 ## Tecnologias Utilizadas
 

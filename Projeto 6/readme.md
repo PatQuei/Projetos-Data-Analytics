@@ -22,7 +22,7 @@ O objetivo deste projeto é proporcionar uma visão clara e interativa sobre os 
 
 ## Captura de Tela
 
-![Captura de Tela do Projeto](link-da-sua-imagem)
+![Captura de Tela do Projeto](https://github.com/PatQuei/Projetos-Data-Analytics/blob/main/Projeto%206/Captura%20de%20tela%202024-09-24%20221026.png)
 
 ## Como Usar
 
